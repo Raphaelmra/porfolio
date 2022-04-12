@@ -1418,12 +1418,11 @@ section.contact-us #contact button:hover {
   opacity: 0.9;
 }
 
-section.contact-us .right-info {
-  background-color: #a12c2f;
-  border-radius: 20px;
-  padding: 40px;
-
-}
+    section.contact-us .right-info {
+        background-color: #f2af09;
+        border-radius: 20px;
+        padding: 40px;
+    }
 
     section.contact-us .right-info ul li {
         display: inline-block;
