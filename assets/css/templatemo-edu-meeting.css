@@ -1024,13 +1024,14 @@ apply now
 */
 
 section.apply-now {
-  background-image: url(../images/formacao.png);
-  background-position: center center;
-  background-attachment: fixed;
-  background-repeat: no-repeat;
-  background-size: cover;
-  padding: 140px 0px;
+   
 
+    background-image: url(../images/formacao.png);
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 140px 0px;
 }
 
 section.apply-now .item {
@@ -1127,13 +1128,18 @@ courses
 */
 
 section.our-courses {
-  background-image: url(../images/meetings-bg.jpg);
-  background-position: center center;
-  background-attachment: fixed;
-  background-repeat: no-repeat;
-  background-size: cover;
-  padding-top: 140px;
-  padding-bottom: 130px;
+    /*
+---------------------------------------------
+mudança background de baixo---------------------------------------------
+*/
+
+    background-image: url(../images/formacao.png);
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 140px;
+    padding-bottom: 130px;
 }
 
 .our-courses .item .down-content {
@@ -1345,12 +1351,17 @@ contact us
 */
 
 section.contact-us {
-  background-image: url(../images/meetings-bg.jpg);
-  background-position: center center;
-  background-attachment: fixed;
-  background-repeat: no-repeat;
-  background-size: cover;
-  padding: 140px 0px 0px 0px;
+    /*
+---------------------------------------------
+mudança background de baixo---------------------------------------------
+*/
+
+    background-image: url(../images/formacao.png);
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 140px 0px 0px 0px;
 }
 
 section.contact-us #contact {
@@ -1513,13 +1524,18 @@ upcoming meetings page
 */
 
 section.meetings-page {
-  background-image: url(../images/meetings-page-bg.jpg);
-  background-position: center center;
-  background-attachment: fixed;
-  background-repeat: no-repeat;
-  background-size: cover;
-  padding-top: 140px;
-  padding-bottom: 0px;
+    /*
+---------------------------------------------
+mudança background de baixo---------------------------------------------
+*/
+
+    background-image: url(../images/formacao.png);
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 140px;
+    padding-bottom: 0px;
 }
 
 section.meetings-page .filters {
